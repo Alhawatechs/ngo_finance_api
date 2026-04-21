@@ -111,7 +111,10 @@ class DatabaseSeeder extends Seeder
         ];
 
         foreach ($permissions as $permissionData) {
-            Permission::create($permissionData);
+            Permission::firstOrCreate(
+                ['name' => $permissionData['name'], 'guard_name' => 'web'],
+                $permissionData
+            );
         }
 
         // Create Roles
