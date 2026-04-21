@@ -19,6 +19,7 @@ yarn-error.log
 .env.staging
 .env.test
 .env.*.local
+!.env.example
 
 # Laravel
 /storage/*.key
@@ -34,6 +35,20 @@ yarn-error.log
 phpunit.xml
 .phpunit.result.cache
 
-# OS
+# OS / editor
 .DS_Store
 Thumbs.db
+*.swp
+*.swo
+*~
+*.log
+.cursor/
+
+# Secrets / keys (never commit)
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials/
+*.backup
