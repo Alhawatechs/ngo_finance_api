@@ -1,0 +1,3712 @@
+{
+  "posting": [
+    {
+      "line": 6,
+      "code": "11.1.1",
+      "name": "UNICEF Projects (USD)",
+      "type": "revenue",
+      "nature": "credit",
+      "currency": "USD",
+      "gl": "Health Projects (USD): 11.1"
+    },
+    {
+      "line": 7,
+      "code": "11.1.2",
+      "name": "UNFPA Projects (USD)",
+      "type": "revenue",
+      "nature": "credit",
+      "currency": "USD",
+      "gl": "Health Projects (USD): 11.1"
+    },
+    {
+      "line": 8,
+      "code": "11.1.3",
+      "name": "WHO Projects (USD)",
+      "type": "revenue",
+      "nature": "credit",
+      "currency": "USD",
+      "gl": "Health Projects (USD): 11.1"
+    },
+    {
+      "line": 9,
+      "code": "11.1.4",
+      "name": "UNDP/GF Projects (USD)",
+      "type": "revenue",
+      "nature": "credit",
+      "currency": "USD",
+      "gl": "Health Projects (USD): 11.1"
+    },
+    {
+      "line": 10,
+      "code": "11.1.5",
+      "name": "WFP Projects (USD)",
+      "type": "revenue",
+      "nature": "credit",
+      "currency": "USD",
+      "gl": "Health Projects (USD): 11.1"
+    },
+    {
+      "line": 11,
+      "code": "11.1.6",
+      "name": "OCHA Projects (USD)",
+      "type": "revenue",
+      "nature": "credit",
+      "currency": "USD",
+      "gl": "Health Projects (USD): 11.1"
+    },
+    {
+      "line": 12,
+      "code": "11.1.7",
+      "name": "World Vision Projects (USD)",
+      "type": "revenue",
+      "nature": "credit",
+      "currency": "USD",
+      "gl": "Health Projects (USD): 11.1"
+    },
+    {
+      "line": 14,
+      "code": "11.2.1",
+      "name": "UNICEF Projects (AFN)",
+      "type": "revenue",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Health Projects (AFN): 11.2"
+    },
+    {
+      "line": 15,
+      "code": "11.2.2",
+      "name": "UNFPA Projects (AFN)",
+      "type": "revenue",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Health Projects (AFN): 11.2"
+    },
+    {
+      "line": 16,
+      "code": "11.2.3",
+      "name": "WHO Projects (AFN)",
+      "type": "revenue",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Health Projects (AFN): 11.2"
+    },
+    {
+      "line": 17,
+      "code": "11.2.4",
+      "name": "UNDP/GF Projects (AFN)",
+      "type": "revenue",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Health Projects (AFN): 11.2"
+    },
+    {
+      "line": 18,
+      "code": "11.2.5",
+      "name": "WFP Projects (AFN)",
+      "type": "revenue",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Health Projects (AFN): 11.2"
+    },
+    {
+      "line": 19,
+      "code": "11.2.6",
+      "name": "OCHA Projects (AFN)",
+      "type": "revenue",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Health Projects (AFN): 11.2"
+    },
+    {
+      "line": 20,
+      "code": "11.2.7",
+      "name": "World Vision Projects (AFN)",
+      "type": "revenue",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Health Projects (AFN): 11.2"
+    },
+    {
+      "line": 22,
+      "code": "11.3.1",
+      "name": "In-Kind Revenue",
+      "type": "revenue",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Health Projects In-Kind: 11.3"
+    },
+    {
+      "line": 24,
+      "code": "11.4.1",
+      "name": "Exchange Rate Gain",
+      "type": "revenue",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Other Income: 11.4"
+    },
+    {
+      "line": 29,
+      "code": "21.1.1",
+      "name": "General Director",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 30,
+      "code": "21.1.2",
+      "name": "Senior Advisor",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 31,
+      "code": "21.1.3",
+      "name": "Health program Director",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 32,
+      "code": "21.1.4",
+      "name": "Training Capacity Building Dir",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 33,
+      "code": "21.1.5",
+      "name": "M&E Program Director",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 34,
+      "code": "21.1.6",
+      "name": "Finance Director",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 35,
+      "code": "21.1.7",
+      "name": "Operation Director",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 36,
+      "code": "21.1.8",
+      "name": "Program Coordinator",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 37,
+      "code": "21.1.9",
+      "name": "Training Coordinator",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 38,
+      "code": "21.1.10",
+      "name": "Technical Manager",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 39,
+      "code": "21.1.11",
+      "name": "CVs Program Manager",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 40,
+      "code": "21.1.12",
+      "name": "CHNL Program Manager",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 41,
+      "code": "21.1.13",
+      "name": "Monitoring Officer/Manager",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 42,
+      "code": "21.1.14",
+      "name": "CBHC Officer/Manager",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 43,
+      "code": "21.1.15",
+      "name": "Pharmacy Manager",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 44,
+      "code": "21.1.16",
+      "name": "RH Manager",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 45,
+      "code": "21.1.17",
+      "name": "Senior Finance Manager",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 46,
+      "code": "21.1.18",
+      "name": "Finance Manager",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 47,
+      "code": "21.1.19",
+      "name": "Logistic Manager",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 48,
+      "code": "21.1.20",
+      "name": "Admin HR Manager",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 49,
+      "code": "21.1.21",
+      "name": "Project Manager",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 50,
+      "code": "21.1.22",
+      "name": "Deputy Technical Manager",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 51,
+      "code": "21.1.23",
+      "name": "Senior M&E HMIS Manager",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 52,
+      "code": "21.1.24",
+      "name": "Deputy Admin/Finance Manager",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 53,
+      "code": "21.1.25",
+      "name": "Finance Controller",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 54,
+      "code": "21.1.26",
+      "name": "Finance Monitor/Supervisor",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 55,
+      "code": "21.1.27",
+      "name": "Provincial Monitors",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 56,
+      "code": "21.1.28",
+      "name": "Finance Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 57,
+      "code": "21.1.29",
+      "name": "Logistic Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 58,
+      "code": "21.1.30",
+      "name": "Procurement Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 59,
+      "code": "21.1.31",
+      "name": "Inventory/IT Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 60,
+      "code": "21.1.32",
+      "name": "Liaison Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 61,
+      "code": "21.1.33",
+      "name": "Admin Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 62,
+      "code": "21.1.34",
+      "name": "HR Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 63,
+      "code": "21.1.35",
+      "name": "Transport Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 64,
+      "code": "21.1.36",
+      "name": "Human Resources Dev or Capacit",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 65,
+      "code": "21.1.37",
+      "name": "RH Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 66,
+      "code": "21.1.38",
+      "name": "HMIS Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 67,
+      "code": "21.1.39",
+      "name": "Quality Assurance Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 68,
+      "code": "21.1.40",
+      "name": "CDC/Hospital Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 69,
+      "code": "21.1.41",
+      "name": "Capacity Dvlpmnt Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 70,
+      "code": "21.1.42",
+      "name": "Nutrition Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 71,
+      "code": "21.1.43",
+      "name": "CBHC Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 72,
+      "code": "21.1.44",
+      "name": "EPI/Lab Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 73,
+      "code": "21.1.45",
+      "name": "Pharmacy Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 74,
+      "code": "21.1.46",
+      "name": "Mental Health/Disability Offic",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 75,
+      "code": "21.1.47",
+      "name": "IMCI Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 76,
+      "code": "21.1.48",
+      "name": "TB Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 77,
+      "code": "21.1.49",
+      "name": "Project Supervisors",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 78,
+      "code": "21.1.50",
+      "name": "Cluster Supervisor",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 79,
+      "code": "21.1.51",
+      "name": "Construction Engineer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 80,
+      "code": "21.1.52",
+      "name": "Bio Medical Engineer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 81,
+      "code": "21.1.53",
+      "name": "Trainers",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 82,
+      "code": "21.1.54",
+      "name": "Clinical Trainers",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 83,
+      "code": "21.1.55",
+      "name": "Language and Computer Trainer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 84,
+      "code": "21.1.56",
+      "name": "Accountant",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 85,
+      "code": "21.1.57",
+      "name": "Cashier",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 86,
+      "code": "21.1.58",
+      "name": "Finance Assistant",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 87,
+      "code": "21.1.59",
+      "name": "RH Assistant",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 88,
+      "code": "21.1.60",
+      "name": "Pharmacy Assistant",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 89,
+      "code": "21.1.61",
+      "name": "EPI Assistant",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 90,
+      "code": "21.1.62",
+      "name": "HMIS Assistant",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 91,
+      "code": "21.1.63",
+      "name": "CBW Trainer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 92,
+      "code": "21.1.64",
+      "name": "Logistic Assistant",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 93,
+      "code": "21.1.65",
+      "name": "Procurement Assistant",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 94,
+      "code": "21.1.66",
+      "name": "IT Assistant",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 95,
+      "code": "21.1.67",
+      "name": "Inventory Assistant",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 96,
+      "code": "21.1.68",
+      "name": "HR Assistant",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 97,
+      "code": "21.1.69",
+      "name": "Admin Assistant",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 98,
+      "code": "21.1.70",
+      "name": "Office Assistant",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 99,
+      "code": "21.1.71",
+      "name": "Maintenance Assistant",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 100,
+      "code": "21.1.72",
+      "name": "Store Keeper",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 101,
+      "code": "21.1.73",
+      "name": "Receptionist",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 102,
+      "code": "21.1.74",
+      "name": "Mechanic",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 103,
+      "code": "21.1.75",
+      "name": "Guard",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 104,
+      "code": "21.1.76",
+      "name": "Cleaner",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 105,
+      "code": "21.1.77",
+      "name": "Cook",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 106,
+      "code": "21.1.78",
+      "name": "Driver",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 107,
+      "code": "21.1.79",
+      "name": "Laundry",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 108,
+      "code": "21.1.80",
+      "name": "Baby Sitter",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 109,
+      "code": "21.1.81",
+      "name": "Program Manager",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 110,
+      "code": "21.1.82",
+      "name": "Hostel Principle",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 111,
+      "code": "21.1.83",
+      "name": "Training supervisor",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 112,
+      "code": "21.1.84",
+      "name": "Deputy Project Manager",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 113,
+      "code": "21.1.85",
+      "name": "Health Educator",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 114,
+      "code": "21.1.86",
+      "name": "Cluster Manager",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 115,
+      "code": "21.1.87",
+      "name": "Admin/Logistic Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 116,
+      "code": "21.1.88",
+      "name": "Admin/HR Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 117,
+      "code": "21.1.89",
+      "name": "Admin/Logistic Assistant",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 118,
+      "code": "21.1.90",
+      "name": "Admin/HR Assistant",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 119,
+      "code": "21.1.91",
+      "name": "CSO Child survival Office",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 120,
+      "code": "21.1.92",
+      "name": "Health Chief Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 121,
+      "code": "21.1.93",
+      "name": "Operation Manager/Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 122,
+      "code": "21.1.94",
+      "name": "Hospital Direct",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 123,
+      "code": "21.1.95",
+      "name": "Medical Director",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 124,
+      "code": "21.1.96",
+      "name": "Head Nurse",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 125,
+      "code": "21.1.97",
+      "name": "Psychosocial Counsellor (M)",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 126,
+      "code": "21.1.98",
+      "name": "Psychosocial Counsellor (F)",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 127,
+      "code": "21.1.99",
+      "name": "Senior Cluster Manager",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 128,
+      "code": "21.1.100",
+      "name": "EPI Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 129,
+      "code": "21.1.101",
+      "name": "Technical Assistant",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 130,
+      "code": "21.1.102",
+      "name": "Maintenance",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 131,
+      "code": "21.1.103",
+      "name": "EPI Manager",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 132,
+      "code": "21.1.104",
+      "name": "M&E Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 133,
+      "code": "21.1.105",
+      "name": "Head of Internal Audit",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 134,
+      "code": "21.1.106",
+      "name": "EPHS Coordinator",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 135,
+      "code": "21.1.107",
+      "name": "Operation Assistant",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Management Salaries: 21.1"
+    },
+    {
+      "line": 137,
+      "code": "21.2.1",
+      "name": "Hospital Director",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 138,
+      "code": "21.2.2",
+      "name": "Male Nurse",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 139,
+      "code": "21.2.3",
+      "name": "Female Nurse",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 140,
+      "code": "21.2.4",
+      "name": "Midwife",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 141,
+      "code": "21.2.5",
+      "name": "MD general male",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 142,
+      "code": "21.2.6",
+      "name": "MD general female",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 143,
+      "code": "21.2.7",
+      "name": "Surgeon",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 144,
+      "code": "21.2.8",
+      "name": "Anesthetist",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 145,
+      "code": "21.2.9",
+      "name": "Pediatrician",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 146,
+      "code": "21.2.10",
+      "name": "Dentist",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 147,
+      "code": "21.2.11",
+      "name": "Pharmacist",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 148,
+      "code": "21.2.12",
+      "name": "Salary",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 149,
+      "code": "21.2.13",
+      "name": "Paramedics, Ancillary Services",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 150,
+      "code": "21.2.14",
+      "name": "Laboratory tech",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 151,
+      "code": "21.2.15",
+      "name": "Pharmacy Tech",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 152,
+      "code": "21.2.16",
+      "name": "X-ray tech",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 153,
+      "code": "21.2.17",
+      "name": "Dental tech",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 154,
+      "code": "21.2.18",
+      "name": "Community health supervisor",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 155,
+      "code": "21.2.19",
+      "name": "Community Mobilizer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 156,
+      "code": "21.2.20",
+      "name": "Health Service Providers",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 157,
+      "code": "21.2.21",
+      "name": "Vaccinator",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 158,
+      "code": "21.2.22",
+      "name": "Administrator",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 159,
+      "code": "21.2.23",
+      "name": "Distributor",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 160,
+      "code": "21.2.24",
+      "name": "Guard",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 161,
+      "code": "21.2.25",
+      "name": "Cleaner",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 162,
+      "code": "21.2.26",
+      "name": "Driver (ambulance, if not included elsewhere)",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 163,
+      "code": "21.2.27",
+      "name": "Out reach for Vaccinator",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 164,
+      "code": "21.2.28",
+      "name": "MD Assistant",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 165,
+      "code": "21.2.29",
+      "name": "Internal Specialist",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 166,
+      "code": "21.2.30",
+      "name": "Physiotherapist",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 167,
+      "code": "21.2.31",
+      "name": "Cook",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 168,
+      "code": "21.2.32",
+      "name": "Blood Bank Technician",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 169,
+      "code": "21.2.33",
+      "name": "Nutritionist",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 170,
+      "code": "21.2.34",
+      "name": "G.Practitioner",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 171,
+      "code": "21.2.35",
+      "name": "Ward Nurse",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 172,
+      "code": "21.2.36",
+      "name": "ER (Emergency Room) & OPD Nurse",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 173,
+      "code": "21.2.37",
+      "name": "Obstetricians and Gynaecologist",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 174,
+      "code": "21.2.38",
+      "name": "Radiologist (X-Ray)",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 175,
+      "code": "21.2.39",
+      "name": "OT (Operating Theatre & Sterilization)",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 176,
+      "code": "21.2.40",
+      "name": "Anaesthetics Nurse",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 177,
+      "code": "21.2.41",
+      "name": "Technical Assistant",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 178,
+      "code": "21.2.42",
+      "name": "Maintainance",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 179,
+      "code": "21.2.43",
+      "name": "Focal Point",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 180,
+      "code": "21.2.44",
+      "name": "Data Collection Officer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 181,
+      "code": "21.2.45",
+      "name": "Nutrition counsellor",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 182,
+      "code": "21.2.46",
+      "name": "Psychosocial counsellor",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 183,
+      "code": "21.2.47",
+      "name": "Peer-Worker",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 184,
+      "code": "21.2.48",
+      "name": "Social Worker",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 185,
+      "code": "21.2.49",
+      "name": "Outreach Coordinator",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 186,
+      "code": "21.2.50",
+      "name": "Facility Coordinator",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 187,
+      "code": "21.2.51",
+      "name": "CHS",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "HFs Salaries: 21.2"
+    },
+    {
+      "line": 189,
+      "code": "21.3.1",
+      "name": "Hospital Director",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 190,
+      "code": "21.3.2",
+      "name": "Male Nurse",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 191,
+      "code": "21.3.3",
+      "name": "Female Nurse",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 192,
+      "code": "21.3.4",
+      "name": "Midwife",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 193,
+      "code": "21.3.5",
+      "name": "MD general male",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 194,
+      "code": "21.3.6",
+      "name": "MD general female",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 195,
+      "code": "21.3.7",
+      "name": "Surgeon",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 196,
+      "code": "21.3.8",
+      "name": "Anesthetist",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 197,
+      "code": "21.3.9",
+      "name": "Dentist",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 198,
+      "code": "21.3.10",
+      "name": "Pharmacist",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 199,
+      "code": "21.3.11",
+      "name": "Salary",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 200,
+      "code": "21.3.12",
+      "name": "Paramedics, Ancillary Services",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 201,
+      "code": "21.3.13",
+      "name": "Laboratory tech",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 202,
+      "code": "21.3.14",
+      "name": "Pharmacy Tech",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 203,
+      "code": "21.3.15",
+      "name": "X-ray tech",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 204,
+      "code": "21.3.16",
+      "name": "Dental tech",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 205,
+      "code": "21.3.17",
+      "name": "Community health supervisor",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 206,
+      "code": "21.3.18",
+      "name": "Community Mobilizer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 207,
+      "code": "21.3.19",
+      "name": "Health Service Providers",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 208,
+      "code": "21.3.20",
+      "name": "Vaccinator",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 209,
+      "code": "21.3.21",
+      "name": "Administrator",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 210,
+      "code": "21.3.22",
+      "name": "Distributor",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 211,
+      "code": "21.3.23",
+      "name": "Guard",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 212,
+      "code": "21.3.24",
+      "name": "Cleaner",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 213,
+      "code": "21.3.25",
+      "name": "Driver (ambulance, if not included elsewhere)",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 214,
+      "code": "21.3.26",
+      "name": "Out reach for Vaccinator",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 215,
+      "code": "21.3.27",
+      "name": "Pediatrician",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Hardship: 21.3"
+    },
+    {
+      "line": 217,
+      "code": "21.4.1",
+      "name": "Male Nurse",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Night Duty: 21.4"
+    },
+    {
+      "line": 218,
+      "code": "21.4.2",
+      "name": "Female Nurse",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Night Duty: 21.4"
+    },
+    {
+      "line": 219,
+      "code": "21.4.3",
+      "name": "Midwife",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Night Duty: 21.4"
+    },
+    {
+      "line": 220,
+      "code": "21.4.4",
+      "name": "Male MD",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Night Duty: 21.4"
+    },
+    {
+      "line": 221,
+      "code": "21.4.5",
+      "name": "Female MD",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Night Duty: 21.4"
+    },
+    {
+      "line": 222,
+      "code": "21.4.6",
+      "name": "Surgeon",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Night Duty: 21.4"
+    },
+    {
+      "line": 223,
+      "code": "21.4.7",
+      "name": "Anesthetist",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Night Duty: 21.4"
+    },
+    {
+      "line": 224,
+      "code": "21.4.8",
+      "name": "Pediatrician",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Night Duty: 21.4"
+    },
+    {
+      "line": 225,
+      "code": "21.4.9",
+      "name": "Guard",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Night Duty: 21.4"
+    },
+    {
+      "line": 226,
+      "code": "21.4.10",
+      "name": "Cleaner",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Night Duty: 21.4"
+    },
+    {
+      "line": 227,
+      "code": "21.4.11",
+      "name": "Driver",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Night Duty: 21.4"
+    },
+    {
+      "line": 228,
+      "code": "21.4.12",
+      "name": "Night Duty",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Night Duty: 21.4"
+    },
+    {
+      "line": 230,
+      "code": "21.5.1",
+      "name": "Trainees",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Wages/Incentive: 21.5"
+    },
+    {
+      "line": 231,
+      "code": "21.5.2",
+      "name": "Wages of workers",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Wages/Incentive: 21.5"
+    },
+    {
+      "line": 232,
+      "code": "21.5.3",
+      "name": "Perdiem for mobile immunization",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Wages/Incentive: 21.5"
+    },
+    {
+      "line": 233,
+      "code": "21.5.4",
+      "name": "Supervisor perdiem",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Wages/Incentive: 21.5"
+    },
+    {
+      "line": 234,
+      "code": "21.5.5",
+      "name": "Perdiem for outreach activity",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Wages/Incentive: 21.5"
+    },
+    {
+      "line": 236,
+      "code": "21.6.1",
+      "name": "Staff Benefits",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Benefits: 21.6"
+    },
+    {
+      "line": 240,
+      "code": "22.1.1",
+      "name": "International airfare",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Travel and Transport: 22.1"
+    },
+    {
+      "line": 241,
+      "code": "22.1.2",
+      "name": "Local Airfare",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Travel and Transport: 22.1"
+    },
+    {
+      "line": 242,
+      "code": "22.1.3",
+      "name": "Local travel",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Travel and Transport: 22.1"
+    },
+    {
+      "line": 243,
+      "code": "22.1.4",
+      "name": "Transportation medicine/supplies",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Travel and Transport: 22.1"
+    },
+    {
+      "line": 244,
+      "code": "22.1.5",
+      "name": "Rent of vehicles Head office",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Travel and Transport: 22.1"
+    },
+    {
+      "line": 245,
+      "code": "22.1.6",
+      "name": "Rent of vehicles Project office",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Travel and Transport: 22.1"
+    },
+    {
+      "line": 246,
+      "code": "22.1.7",
+      "name": "Ambulance Rent",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Travel and Transport: 22.1"
+    },
+    {
+      "line": 247,
+      "code": "22.1.8",
+      "name": "Taxi charges",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Travel and Transport: 22.1"
+    },
+    {
+      "line": 249,
+      "code": "22.2.1",
+      "name": "Staff per diem",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Supervision and Monitoring: 22.2"
+    },
+    {
+      "line": 250,
+      "code": "22.2.2",
+      "name": "Accommodation",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Supervision and Monitoring: 22.2"
+    },
+    {
+      "line": 251,
+      "code": "22.2.3",
+      "name": "Baseline assessment (Perdiem, accommodation)",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Supervision and Monitoring: 22.2"
+    },
+    {
+      "line": 252,
+      "code": "22.2.4",
+      "name": "Non binding assessment",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Supervision and Monitoring: 22.2"
+    },
+    {
+      "line": 253,
+      "code": "22.2.5",
+      "name": "Accreditation fee",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Supervision and Monitoring: 22.2"
+    },
+    {
+      "line": 254,
+      "code": "22.2.6",
+      "name": "Trainers fee",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Supervision and Monitoring: 22.2"
+    },
+    {
+      "line": 256,
+      "code": "22.3.1",
+      "name": "Telephone & top up cards",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Communication: 22.3"
+    },
+    {
+      "line": 257,
+      "code": "22.3.2",
+      "name": "Internet install & monthly fee",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Communication: 22.3"
+    },
+    {
+      "line": 258,
+      "code": "22.3.3",
+      "name": "Advertisement",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Communication: 22.3"
+    },
+    {
+      "line": 260,
+      "code": "22.4.1",
+      "name": "Building repair & Maintenance",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Repairs and Maintenance: 22.4"
+    },
+    {
+      "line": 261,
+      "code": "22.4.2",
+      "name": "Vehicle repair & maint (includes)",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Repairs and Maintenance: 22.4"
+    },
+    {
+      "line": 262,
+      "code": "22.4.3",
+      "name": "Equip repair & maint",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Repairs and Maintenance: 22.4"
+    },
+    {
+      "line": 263,
+      "code": "22.4.4",
+      "name": "Ambulance repair & Maintenance",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Repairs and Maintenance: 22.4"
+    },
+    {
+      "line": 264,
+      "code": "22.4.5",
+      "name": "Basic Renovation",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Repairs and Maintenance: 22.4"
+    },
+    {
+      "line": 265,
+      "code": "22.4.6",
+      "name": "Medical Equipments Repair & Maintenance",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Repairs and Maintenance: 22.4"
+    },
+    {
+      "line": 266,
+      "code": "22.4.7",
+      "name": "Non Medical Equip Repair & Maintenance",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Repairs and Maintenance: 22.4"
+    },
+    {
+      "line": 268,
+      "code": "22.5.1",
+      "name": "Electricity, water, gas (cooking & Other)",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Utilities (Power and Fuel): 22.5"
+    },
+    {
+      "line": 269,
+      "code": "22.5.2",
+      "name": "Gas for Vaccine refrigerator",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Utilities (Power and Fuel): 22.5"
+    },
+    {
+      "line": 270,
+      "code": "22.5.3",
+      "name": "Fuel for Generator",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Utilities (Power and Fuel): 22.5"
+    },
+    {
+      "line": 271,
+      "code": "22.5.4",
+      "name": "Fuel for Motorbike",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Utilities (Power and Fuel): 22.5"
+    },
+    {
+      "line": 272,
+      "code": "22.5.5",
+      "name": "Ambulance Fuel",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Utilities (Power and Fuel): 22.5"
+    },
+    {
+      "line": 273,
+      "code": "22.5.6",
+      "name": "Fuel for Heating",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Utilities (Power and Fuel): 22.5"
+    },
+    {
+      "line": 274,
+      "code": "22.5.7",
+      "name": "Winterization wood",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Utilities (Power and Fuel): 22.5"
+    },
+    {
+      "line": 275,
+      "code": "22.5.8",
+      "name": "Winterization Cool",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Utilities (Power and Fuel): 22.5"
+    },
+    {
+      "line": 276,
+      "code": "22.5.9",
+      "name": "Fuel of EPI Vehicle",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Utilities (Power and Fuel): 22.5"
+    },
+    {
+      "line": 277,
+      "code": "22.5.10",
+      "name": "Fuel of Office Vehicle",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Utilities (Power and Fuel): 22.5"
+    },
+    {
+      "line": 278,
+      "code": "22.5.11",
+      "name": "Fuel for Lamp",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Utilities (Power and Fuel): 22.5"
+    },
+    {
+      "line": 279,
+      "code": "22.5.12",
+      "name": "Winterization",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Utilities (Power and Fuel): 22.5"
+    },
+    {
+      "line": 280,
+      "code": "22.5.13",
+      "name": "Gas for Sterilization",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Utilities (Power and Fuel): 22.5"
+    },
+    {
+      "line": 282,
+      "code": "22.6.1",
+      "name": "Office & general supplies",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Materials and Supplies/Office: 22.6"
+    },
+    {
+      "line": 283,
+      "code": "22.6.2",
+      "name": "Office & Small Equipments",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Materials and Supplies/Office: 22.6"
+    },
+    {
+      "line": 284,
+      "code": "22.6.3",
+      "name": "Refreshment",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Materials and Supplies/Office: 22.6"
+    },
+    {
+      "line": 285,
+      "code": "22.6.4",
+      "name": "Cartridge for printer",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Materials and Supplies/Office: 22.6"
+    },
+    {
+      "line": 286,
+      "code": "22.6.5",
+      "name": "Printing - HMIS & MOPH forms",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Materials and Supplies/Office: 22.6"
+    },
+    {
+      "line": 287,
+      "code": "22.6.6",
+      "name": "Stationary",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Materials and Supplies/Office: 22.6"
+    },
+    {
+      "line": 288,
+      "code": "22.6.7",
+      "name": "Cleaning Materials",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Materials and Supplies/Office: 22.6"
+    },
+    {
+      "line": 290,
+      "code": "22.7.1",
+      "name": "Medicine Supplies",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Pharmaceutical Supplies: 22.7"
+    },
+    {
+      "line": 291,
+      "code": "22.7.2",
+      "name": "Medical Supplies",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Pharmaceutical Supplies: 22.7"
+    },
+    {
+      "line": 292,
+      "code": "22.7.3",
+      "name": "Others",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Pharmaceutical Supplies: 22.7"
+    },
+    {
+      "line": 293,
+      "code": "22.7.4",
+      "name": "Baby kit",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Pharmaceutical Supplies: 22.7"
+    },
+    {
+      "line": 294,
+      "code": "22.7.5",
+      "name": "Lab skill consumables",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Pharmaceutical Supplies: 22.7"
+    },
+    {
+      "line": 295,
+      "code": "22.7.6",
+      "name": "Science lab supplies",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Pharmaceutical Supplies: 22.7"
+    },
+    {
+      "line": 296,
+      "code": "22.7.7",
+      "name": "IEC Materials",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Pharmaceutical Supplies: 22.7"
+    },
+    {
+      "line": 297,
+      "code": "22.7.8",
+      "name": "Hygiene Kit for trainees",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Pharmaceutical Supplies: 22.7"
+    },
+    {
+      "line": 298,
+      "code": "22.7.9",
+      "name": "Consumable items for Clinical",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Pharmaceutical Supplies: 22.7"
+    },
+    {
+      "line": 300,
+      "code": "22.8.1",
+      "name": "Office rent Head office",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Rent or Lease Payment: 22.8"
+    },
+    {
+      "line": 301,
+      "code": "22.8.2",
+      "name": "Staff house rent Head office",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Rent or Lease Payment: 22.8"
+    },
+    {
+      "line": 302,
+      "code": "22.8.3",
+      "name": "Office rent project office",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Rent or Lease Payment: 22.8"
+    },
+    {
+      "line": 303,
+      "code": "22.8.4",
+      "name": "Staff house rent project office",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Rent or Lease Payment: 22.8"
+    },
+    {
+      "line": 304,
+      "code": "22.8.5",
+      "name": "Stock rent",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Rent or Lease Payment: 22.8"
+    },
+    {
+      "line": 305,
+      "code": "22.8.6",
+      "name": "HFs Rent",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Rent or Lease Payment: 22.8"
+    },
+    {
+      "line": 306,
+      "code": "22.8.7",
+      "name": "Training Center",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Rent or Lease Payment: 22.8"
+    },
+    {
+      "line": 307,
+      "code": "22.8.8",
+      "name": "Hostel",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Rent or Lease Payment: 22.8"
+    },
+    {
+      "line": 309,
+      "code": "22.9.1",
+      "name": "Audit fee (pro rated for overall)",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Other Cost/Operational Expenses: 22.9"
+    },
+    {
+      "line": 310,
+      "code": "22.9.2",
+      "name": "Patient food (CHC/DH)",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Other Cost/Operational Expenses: 22.9"
+    },
+    {
+      "line": 311,
+      "code": "22.9.3",
+      "name": "Food for Students",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Other Cost/Operational Expenses: 22.9"
+    },
+    {
+      "line": 312,
+      "code": "22.9.4",
+      "name": "Staff uniforms",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Other Cost/Operational Expenses: 22.9"
+    },
+    {
+      "line": 313,
+      "code": "22.9.5",
+      "name": "Take over cost",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Other Cost/Operational Expenses: 22.9"
+    },
+    {
+      "line": 314,
+      "code": "22.9.6",
+      "name": "Publication",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Other Cost/Operational Expenses: 22.9"
+    },
+    {
+      "line": 315,
+      "code": "22.9.7",
+      "name": "Miscellaneous",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Other Cost/Operational Expenses: 22.9"
+    },
+    {
+      "line": 316,
+      "code": "22.9.8",
+      "name": "Emergency response",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Other Cost/Operational Expenses: 22.9"
+    },
+    {
+      "line": 317,
+      "code": "22.9.9",
+      "name": "Bank Charges",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Other Cost/Operational Expenses: 22.9"
+    },
+    {
+      "line": 318,
+      "code": "22.9.10",
+      "name": "Kitchen Utilities",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Other Cost/Operational Expenses: 22.9"
+    },
+    {
+      "line": 319,
+      "code": "22.9.11",
+      "name": "Rehabilitation of skill lab and",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Other Cost/Operational Expenses: 22.9"
+    },
+    {
+      "line": 320,
+      "code": "22.9.12",
+      "name": "Inauguration/Graduation Ceremony",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Other Cost/Operational Expenses: 22.9"
+    },
+    {
+      "line": 321,
+      "code": "22.9.13",
+      "name": "Diploma cost for graduates",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Other Cost/Operational Expenses: 22.9"
+    },
+    {
+      "line": 322,
+      "code": "22.9.14",
+      "name": "Visa Fee/Work permit",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Other Cost/Operational Expenses: 22.9"
+    },
+    {
+      "line": 323,
+      "code": "22.9.15",
+      "name": "On Call Visit",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Other Cost/Operational Expenses: 22.9"
+    },
+    {
+      "line": 324,
+      "code": "22.9.16",
+      "name": "Patient Cloths",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Other Cost/Operational Expenses: 22.9"
+    },
+    {
+      "line": 325,
+      "code": "22.9.17",
+      "name": "Gas for Kitchen",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Other Cost/Operational Expenses: 22.9"
+    },
+    {
+      "line": 326,
+      "code": "22.9.18",
+      "name": "Oxygen Gas",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Other Cost/Operational Expenses: 22.9"
+    },
+    {
+      "line": 330,
+      "code": "23.1.1",
+      "name": "Initial CHW Training",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 331,
+      "code": "23.1.2",
+      "name": "Refresher CHW Training",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 332,
+      "code": "23.1.3",
+      "name": "Per diems for CHW monthly meetings",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 333,
+      "code": "23.1.4",
+      "name": "Outreach per diem for Vaccination",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 334,
+      "code": "23.1.5",
+      "name": "RUD",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 335,
+      "code": "23.1.6",
+      "name": "Lab",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 336,
+      "code": "23.1.7",
+      "name": "Blood Transfusion",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 337,
+      "code": "23.1.8",
+      "name": "IP",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 338,
+      "code": "23.1.9",
+      "name": "EPI",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 339,
+      "code": "23.1.10",
+      "name": "Nutrition",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 340,
+      "code": "23.1.11",
+      "name": "Disability",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 341,
+      "code": "23.1.12",
+      "name": "New Born Care",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 342,
+      "code": "23.1.13",
+      "name": "IMNCI",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 343,
+      "code": "23.1.14",
+      "name": "FP",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 344,
+      "code": "23.1.15",
+      "name": "PPFP",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 345,
+      "code": "23.1.16",
+      "name": "Basic EOC",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 346,
+      "code": "23.1.17",
+      "name": "Mental health",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 347,
+      "code": "23.1.18",
+      "name": "TB/Malaria",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 348,
+      "code": "23.1.19",
+      "name": "HR Management",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 349,
+      "code": "23.1.20",
+      "name": "HMIS",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 350,
+      "code": "23.1.21",
+      "name": "BCC/IPCC",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 351,
+      "code": "23.1.22",
+      "name": "PDQ",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 352,
+      "code": "23.1.23",
+      "name": "ETS",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 353,
+      "code": "23.1.24",
+      "name": "Gender AW",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 354,
+      "code": "23.1.25",
+      "name": "Equip/Main",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 355,
+      "code": "23.1.26",
+      "name": "Primary Eye Care",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 356,
+      "code": "23.1.27",
+      "name": "Community Midwifery Education Program",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 357,
+      "code": "23.1.28",
+      "name": "Community Nursing Program",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 358,
+      "code": "23.1.29",
+      "name": "Performance Based Incentive",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 359,
+      "code": "23.1.30",
+      "name": "Integrated Outreach services program",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 360,
+      "code": "23.1.31",
+      "name": "Quarterly HFs coordination meeting",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 361,
+      "code": "23.1.32",
+      "name": "Accreditation Workshop",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 362,
+      "code": "23.1.33",
+      "name": "Emergency obstetric care basic",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 363,
+      "code": "23.1.34",
+      "name": "Performance Effective Teaching",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 364,
+      "code": "23.1.35",
+      "name": "Essential New Born Care Basic Training",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 365,
+      "code": "23.1.36",
+      "name": "Supportive Supervision for Project",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 366,
+      "code": "23.1.37",
+      "name": "ToT for CHNE master trainees",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 367,
+      "code": "23.1.38",
+      "name": "Curriculum review workshop",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 368,
+      "code": "23.1.39",
+      "name": "Capacity Building of Staff",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 369,
+      "code": "23.1.40",
+      "name": "Rational use of drug Training",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 370,
+      "code": "23.1.41",
+      "name": "Medical Ethic Training",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 371,
+      "code": "23.1.42",
+      "name": "STI including HIV/AIDS training",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 372,
+      "code": "23.1.43",
+      "name": "Trauma Management",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 373,
+      "code": "23.1.44",
+      "name": "Nutrition SOP Initial, HFS Consultation",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 374,
+      "code": "23.1.45",
+      "name": "Nutrition SOP Refresher, HFS Consultation",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 375,
+      "code": "23.1.46",
+      "name": "Financial Management",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 376,
+      "code": "23.1.47",
+      "name": "HQIP",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 377,
+      "code": "23.1.48",
+      "name": "X-Ray, DH Male and Female MDs",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 378,
+      "code": "23.1.49",
+      "name": "Refresher training of CHSs",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 379,
+      "code": "23.1.50",
+      "name": "Initial training of CHSs",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 380,
+      "code": "23.1.51",
+      "name": "Training FHAG Groups female CHWs",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 381,
+      "code": "23.1.52",
+      "name": "Infection prevention TOT for management",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 382,
+      "code": "23.1.53",
+      "name": "Refresher training for Midwives",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 383,
+      "code": "23.1.54",
+      "name": "Stock management",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 384,
+      "code": "23.1.55",
+      "name": "Drug supplies for Health Posts",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Trainings Cost: 23.1"
+    },
+    {
+      "line": 388,
+      "code": "24.1.1",
+      "name": "Anatomical Modules",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Medical Equipments: 24.1"
+    },
+    {
+      "line": 389,
+      "code": "24.1.2",
+      "name": "Nursing Skills Equipments",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Medical Equipments: 24.1"
+    },
+    {
+      "line": 390,
+      "code": "24.1.3",
+      "name": "Medical Equipments",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Medical Equipments: 24.1"
+    },
+    {
+      "line": 392,
+      "code": "24.2.1",
+      "name": "Office Equipments",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Non-Medical Equipments: 24.2"
+    },
+    {
+      "line": 393,
+      "code": "24.2.2",
+      "name": "IT Equipments",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Non-Medical Equipments: 24.2"
+    },
+    {
+      "line": 394,
+      "code": "24.2.3",
+      "name": "Furniture and Fixtures",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Non-Medical Equipments: 24.2"
+    },
+    {
+      "line": 395,
+      "code": "24.2.4",
+      "name": "Machinery and Equipment",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Non-Medical Equipments: 24.2"
+    },
+    {
+      "line": 396,
+      "code": "24.2.5",
+      "name": "Electronic Equipment",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Non-Medical Equipments: 24.2"
+    },
+    {
+      "line": 397,
+      "code": "24.2.6",
+      "name": "Training Center Equipments",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Non-Medical Equipments: 24.2"
+    },
+    {
+      "line": 398,
+      "code": "24.2.7",
+      "name": "Hospital Equipments",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Non-Medical Equipments: 24.2"
+    },
+    {
+      "line": 399,
+      "code": "24.2.8",
+      "name": "Hostel Equipments",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Non-Medical Equipments: 24.2"
+    },
+    {
+      "line": 403,
+      "code": "25.1.1",
+      "name": "Admin Cost (7%)",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Admin Costs: 25.1"
+    },
+    {
+      "line": 404,
+      "code": "25.1.2",
+      "name": "Admin Cost (5%)",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Admin Costs: 25.1"
+    },
+    {
+      "line": 405,
+      "code": "25.1.3",
+      "name": "Admin Cost (2%)",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Admin Costs: 25.1"
+    },
+    {
+      "line": 406,
+      "code": "25.1.4",
+      "name": "Indirect/ Admin Expenditure",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Admin Costs: 25.1"
+    },
+    {
+      "line": 410,
+      "code": "26.1.1",
+      "name": "Contingency Fund",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Contingency Fund: 26.1"
+    },
+    {
+      "line": 414,
+      "code": "27.1.1",
+      "name": "Wages/Salaries Tax (DAB)",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "DAB Tax: 27.1"
+    },
+    {
+      "line": 415,
+      "code": "27.1.2",
+      "name": "Contractor Tax (DAB)",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "DAB Tax: 27.1"
+    },
+    {
+      "line": 416,
+      "code": "27.1.3",
+      "name": "House Rent Tax (DAB)",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "DAB Tax: 27.1"
+    },
+    {
+      "line": 420,
+      "code": "28.1.1",
+      "name": "In-Kind Expenditure (AFN)",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "In-Kind Expenditure: 28.1"
+    },
+    {
+      "line": 424,
+      "code": "29.1.1",
+      "name": "Exchange Rate Losses",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Other Expenses: 29.1"
+    },
+    {
+      "line": 425,
+      "code": "29.1.2",
+      "name": "Refunded to Donors",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Other Expenses: 29.1"
+    },
+    {
+      "line": 426,
+      "code": "29.1.3",
+      "name": "Ineligiable Expenditure",
+      "type": "expense",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Other Expenses: 29.1"
+    },
+    {
+      "line": 431,
+      "code": "31.1.1",
+      "name": "BPHS-Herat",
+      "type": "asset",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Cash: 31.1"
+    },
+    {
+      "line": 432,
+      "code": "31.1.2",
+      "name": "BPHS-Nuristan",
+      "type": "asset",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Cash: 31.1"
+    },
+    {
+      "line": 433,
+      "code": "31.1.3",
+      "name": "UNFPA",
+      "type": "asset",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Cash: 31.1"
+    },
+    {
+      "line": 434,
+      "code": "31.1.4",
+      "name": "World Vision - DAWAM",
+      "type": "asset",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Cash: 31.1"
+    },
+    {
+      "line": 435,
+      "code": "31.1.5",
+      "name": "OCHA-AHF-Herat",
+      "type": "asset",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Cash: 31.1"
+    },
+    {
+      "line": 436,
+      "code": "31.1.6",
+      "name": "TSFP-Kabul",
+      "type": "asset",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Cash: 31.1"
+    },
+    {
+      "line": 437,
+      "code": "31.1.7",
+      "name": "TSFP-Herat",
+      "type": "asset",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Cash: 31.1"
+    },
+    {
+      "line": 438,
+      "code": "31.1.8",
+      "name": "CBNI-Herat",
+      "type": "asset",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Cash: 31.1"
+    },
+    {
+      "line": 441,
+      "code": "32.1.1",
+      "name": "General Account 701 (USD)",
+      "type": "asset",
+      "nature": "debit",
+      "currency": "USD",
+      "gl": "AIB Bank: 32.1"
+    },
+    {
+      "line": 442,
+      "code": "32.1.2",
+      "name": "OCHA Accounts (USD)",
+      "type": "asset",
+      "nature": "debit",
+      "currency": "USD",
+      "gl": "AIB Bank: 32.1"
+    },
+    {
+      "line": 444,
+      "code": "32.2.1",
+      "name": "General Account (AFN)",
+      "type": "asset",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Azizi Banks: 32.2"
+    },
+    {
+      "line": 445,
+      "code": "32.2.2",
+      "name": "BPHS-Herat",
+      "type": "asset",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Azizi Banks: 32.2"
+    },
+    {
+      "line": 446,
+      "code": "32.2.3",
+      "name": "BPHS-Nuristan",
+      "type": "asset",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Azizi Banks: 32.2"
+    },
+    {
+      "line": 447,
+      "code": "32.2.4",
+      "name": "CBNI-Herat",
+      "type": "asset",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Azizi Banks: 32.2"
+    },
+    {
+      "line": 449,
+      "code": "32.3.1",
+      "name": "Ghazanfar Account (USD)",
+      "type": "asset",
+      "nature": "debit",
+      "currency": "USD",
+      "gl": "Ghazanfar Banks: 32.3"
+    },
+    {
+      "line": 453,
+      "code": "33.1.1",
+      "name": "Tahdab Amanat MSP",
+      "type": "asset",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "MSP: 33.1"
+    },
+    {
+      "line": 458,
+      "code": "34.1.1",
+      "name": "Employee Advances",
+      "type": "asset",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Advances: 34.1"
+    },
+    {
+      "line": 459,
+      "code": "34.1.2",
+      "name": "Travel Advances",
+      "type": "asset",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Advances: 34.1"
+    },
+    {
+      "line": 460,
+      "code": "34.1.3",
+      "name": "Supplier Advances",
+      "type": "asset",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Advances: 34.1"
+    },
+    {
+      "line": 464,
+      "code": "35.1.1",
+      "name": "Grants/Donor Receivables (USD)",
+      "type": "asset",
+      "nature": "debit",
+      "currency": "USD",
+      "gl": "Health Donors Receivable: 35.1"
+    },
+    {
+      "line": 465,
+      "code": "35.1.2",
+      "name": "Grants/Donor Receivables (AFN)",
+      "type": "asset",
+      "nature": "debit",
+      "currency": "AFN",
+      "gl": "Health Donors Receivable: 35.1"
+    },
+    {
+      "line": 470,
+      "code": "41.1.1",
+      "name": "BPHS-Herat Project",
+      "type": "liability",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Health Projects: 41.1"
+    },
+    {
+      "line": 471,
+      "code": "41.1.2",
+      "name": "BPHS-Nuristan Project",
+      "type": "liability",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Health Projects: 41.1"
+    },
+    {
+      "line": 472,
+      "code": "41.1.3",
+      "name": "UNFPA Project",
+      "type": "liability",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Health Projects: 41.1"
+    },
+    {
+      "line": 473,
+      "code": "41.1.4",
+      "name": "World Vision - DAWAM Project",
+      "type": "liability",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Health Projects: 41.1"
+    },
+    {
+      "line": 474,
+      "code": "41.1.5",
+      "name": "OCHA-AHF-Herat Project",
+      "type": "liability",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Health Projects: 41.1"
+    },
+    {
+      "line": 475,
+      "code": "41.1.6",
+      "name": "TSFP-Kabul Project",
+      "type": "liability",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Health Projects: 41.1"
+    },
+    {
+      "line": 476,
+      "code": "41.1.7",
+      "name": "TSFP-Herat Project",
+      "type": "liability",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Health Projects: 41.1"
+    },
+    {
+      "line": 477,
+      "code": "41.1.8",
+      "name": "CBNI-Herat Project",
+      "type": "liability",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Health Projects: 41.1"
+    },
+    {
+      "line": 481,
+      "code": "42.1.1",
+      "name": "Admin of Projects",
+      "type": "liability",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Admin: 42.1"
+    },
+    {
+      "line": 485,
+      "code": "43.1.1",
+      "name": "Wages/Salary Taxes",
+      "type": "liability",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Wages/Salary Taxes: 43.1"
+    },
+    {
+      "line": 487,
+      "code": "43.2.1",
+      "name": "Contractor Taxes (7%)",
+      "type": "liability",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Contractor Taxes: 43.2"
+    },
+    {
+      "line": 488,
+      "code": "43.2.2",
+      "name": "Contractor Taxes (2%)",
+      "type": "liability",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Contractor Taxes: 43.2"
+    },
+    {
+      "line": 490,
+      "code": "43.3.1",
+      "name": "Rental House Taxes (10%)",
+      "type": "liability",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Rental House Taxes: 43.3"
+    },
+    {
+      "line": 491,
+      "code": "43.3.2",
+      "name": "Rental House Taxes (15%)",
+      "type": "expense",
+      "nature": "debit",
+      "currency": null,
+      "gl": "Rental House Taxes: 43.3"
+    },
+    {
+      "line": 496,
+      "code": "51.1.1",
+      "name": "Surplus/Deficit",
+      "type": "equity",
+      "nature": "credit",
+      "currency": "AFN",
+      "gl": "Surplus/Deficit: 51.1"
+    }
+  ]
+}

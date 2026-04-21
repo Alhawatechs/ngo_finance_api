@@ -1,0 +1,4765 @@
+{
+  "source": "AADA Final Chart of accounts - backup before update.xlsx",
+  "hierarchy": [
+    {
+      "code": "1",
+      "name": "Income",
+      "parent_code": null,
+      "level": 1,
+      "is_posting": false,
+      "account_type": "revenue",
+      "normal_balance": "credit",
+      "currency_code": null
+    },
+    {
+      "code": "2",
+      "name": "Expenses",
+      "parent_code": null,
+      "level": 1,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "3",
+      "name": "Assets",
+      "parent_code": null,
+      "level": 1,
+      "is_posting": false,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "4",
+      "name": "Liabilities",
+      "parent_code": null,
+      "level": 1,
+      "is_posting": false,
+      "account_type": "liability",
+      "normal_balance": "credit",
+      "currency_code": null
+    },
+    {
+      "code": "5",
+      "name": "Accumulated Fund",
+      "parent_code": null,
+      "level": 1,
+      "is_posting": false,
+      "account_type": "equity",
+      "normal_balance": "credit",
+      "currency_code": null
+    },
+    {
+      "code": "11",
+      "name": "Health Donors Fund",
+      "parent_code": "1",
+      "level": 2,
+      "is_posting": false,
+      "account_type": "revenue",
+      "normal_balance": "credit",
+      "currency_code": null
+    },
+    {
+      "code": "21",
+      "name": "Wages/ Salaries",
+      "parent_code": "2",
+      "level": 2,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "22",
+      "name": "Goods and Services",
+      "parent_code": "2",
+      "level": 2,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "23",
+      "name": "Training and Survey",
+      "parent_code": "2",
+      "level": 2,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "24",
+      "name": "Equipments",
+      "parent_code": "2",
+      "level": 2,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "25",
+      "name": "Indirect/Admin Costs",
+      "parent_code": "2",
+      "level": 2,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "26",
+      "name": "Contingency Fund",
+      "parent_code": "2",
+      "level": 2,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "27",
+      "name": "Tax",
+      "parent_code": "2",
+      "level": 2,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "28",
+      "name": "In-Kind Expenditure",
+      "parent_code": "2",
+      "level": 2,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "29",
+      "name": "Other Expenses",
+      "parent_code": "2",
+      "level": 2,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "31",
+      "name": "Bank",
+      "parent_code": "3",
+      "level": 2,
+      "is_posting": false,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "32",
+      "name": "Bank",
+      "parent_code": "3",
+      "level": 2,
+      "is_posting": false,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "33",
+      "name": "Money Service Provider",
+      "parent_code": "3",
+      "level": 2,
+      "is_posting": false,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "34",
+      "name": "Advances",
+      "parent_code": "3",
+      "level": 2,
+      "is_posting": false,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "35",
+      "name": "Accounts Receivable",
+      "parent_code": "3",
+      "level": 2,
+      "is_posting": false,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "41",
+      "name": "Accounts Payable and Accruals",
+      "parent_code": "4",
+      "level": 2,
+      "is_posting": false,
+      "account_type": "liability",
+      "normal_balance": "credit",
+      "currency_code": null
+    },
+    {
+      "code": "42",
+      "name": "Indirect/Admin Accruals",
+      "parent_code": "4",
+      "level": 2,
+      "is_posting": false,
+      "account_type": "liability",
+      "normal_balance": "credit",
+      "currency_code": null
+    },
+    {
+      "code": "43",
+      "name": "Withholding Taxes Payable",
+      "parent_code": "4",
+      "level": 2,
+      "is_posting": false,
+      "account_type": "liability",
+      "normal_balance": "credit",
+      "currency_code": null
+    },
+    {
+      "code": "51",
+      "name": "Restricted Fund Balance",
+      "parent_code": "5",
+      "level": 2,
+      "is_posting": false,
+      "account_type": "equity",
+      "normal_balance": "credit",
+      "currency_code": null
+    },
+    {
+      "code": "11.1",
+      "name": "Health Projects  (USD)",
+      "parent_code": "11",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "revenue",
+      "normal_balance": "credit",
+      "currency_code": null
+    },
+    {
+      "code": "11.2",
+      "name": "Health Projects  (AFN)",
+      "parent_code": "11",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "revenue",
+      "normal_balance": "credit",
+      "currency_code": null
+    },
+    {
+      "code": "11.3",
+      "name": "Health Projects In-Kind",
+      "parent_code": "11",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "revenue",
+      "normal_balance": "credit",
+      "currency_code": null
+    },
+    {
+      "code": "11.4",
+      "name": "Other Income",
+      "parent_code": "11",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "revenue",
+      "normal_balance": "credit",
+      "currency_code": null
+    },
+    {
+      "code": "21.1",
+      "name": "Management Salaries",
+      "parent_code": "21",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "21.2",
+      "name": "HFs Salaries",
+      "parent_code": "21",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "21.3",
+      "name": "Hardship",
+      "parent_code": "21",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "21.4",
+      "name": "Night Duty",
+      "parent_code": "21",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "21.5",
+      "name": "Wages/Incentive",
+      "parent_code": "21",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "21.6",
+      "name": "Benefits",
+      "parent_code": "21",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "22.1",
+      "name": "Travel and Transport",
+      "parent_code": "22",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "22.2",
+      "name": "Supervision and Monitoring",
+      "parent_code": "22",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "22.3",
+      "name": "Communication",
+      "parent_code": "22",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "22.4",
+      "name": "Repairs and Maintenance",
+      "parent_code": "22",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "22.5",
+      "name": "Utilities (Power and Fuel)",
+      "parent_code": "22",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "22.6",
+      "name": "Materials and Supplies/Office",
+      "parent_code": "22",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "22.7",
+      "name": "Pharmaceutical Supplies",
+      "parent_code": "22",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "22.8",
+      "name": "Rent or Lease Payment",
+      "parent_code": "22",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "22.9",
+      "name": "Other Cost/Operational Expenses",
+      "parent_code": "22",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "23.1",
+      "name": "Trainings Cost",
+      "parent_code": "23",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "24.1",
+      "name": "Medical Equipments",
+      "parent_code": "24",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "24.2",
+      "name": "Non-Medical Equipments",
+      "parent_code": "24",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "25.1",
+      "name": "Admin Cost",
+      "parent_code": "25",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "26.1",
+      "name": "Contingency Fund",
+      "parent_code": "26",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "27.1",
+      "name": "DAB Tax",
+      "parent_code": "27",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "28.1",
+      "name": "In-Kind Expenditure",
+      "parent_code": "28",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "29.1",
+      "name": "Other Expenses",
+      "parent_code": "29",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "31.1",
+      "name": "Cash",
+      "parent_code": "31",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "32.1",
+      "name": "AIB Banks",
+      "parent_code": "32",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "32.2",
+      "name": "Azizi Banks",
+      "parent_code": "32",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "32.3",
+      "name": "Ghazanfar Banks",
+      "parent_code": "32",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "33.1",
+      "name": "MSP",
+      "parent_code": "33",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "34.1",
+      "name": "Advances",
+      "parent_code": "34",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "35.1",
+      "name": "Health Donors Receivable",
+      "parent_code": "35",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": null
+    },
+    {
+      "code": "41.1",
+      "name": "Health Projects",
+      "parent_code": "41",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "liability",
+      "normal_balance": "credit",
+      "currency_code": null
+    },
+    {
+      "code": "42.1",
+      "name": "Admin",
+      "parent_code": "42",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "liability",
+      "normal_balance": "credit",
+      "currency_code": null
+    },
+    {
+      "code": "43.1",
+      "name": "Wages/Salaries Taxes",
+      "parent_code": "43",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "liability",
+      "normal_balance": "credit",
+      "currency_code": null
+    },
+    {
+      "code": "43.2",
+      "name": "Contractor Taxes",
+      "parent_code": "43",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "liability",
+      "normal_balance": "credit",
+      "currency_code": null
+    },
+    {
+      "code": "43.3",
+      "name": "Rental House Taxes",
+      "parent_code": "43",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "liability",
+      "normal_balance": "credit",
+      "currency_code": null
+    },
+    {
+      "code": "51.1",
+      "name": "Surplus/Deficit",
+      "parent_code": "51",
+      "level": 3,
+      "is_posting": false,
+      "account_type": "equity",
+      "normal_balance": "credit",
+      "currency_code": null
+    },
+    {
+      "code": "11.1.1",
+      "name": "UNICEF Projects (USD)",
+      "parent_code": "11.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "revenue",
+      "normal_balance": "credit",
+      "currency_code": "USD"
+    },
+    {
+      "code": "11.1.2",
+      "name": "UNFPA Projects (USD)",
+      "parent_code": "11.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "revenue",
+      "normal_balance": "credit",
+      "currency_code": "USD"
+    },
+    {
+      "code": "11.1.3",
+      "name": "WHO Projects (USD)",
+      "parent_code": "11.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "revenue",
+      "normal_balance": "credit",
+      "currency_code": "USD"
+    },
+    {
+      "code": "11.1.4",
+      "name": "UNDP/GF Projects (USD)",
+      "parent_code": "11.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "revenue",
+      "normal_balance": "credit",
+      "currency_code": "USD"
+    },
+    {
+      "code": "11.1.5",
+      "name": "WFP Projects (USD)",
+      "parent_code": "11.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "revenue",
+      "normal_balance": "credit",
+      "currency_code": "USD"
+    },
+    {
+      "code": "11.1.6",
+      "name": "OCHA Projects (USD)",
+      "parent_code": "11.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "revenue",
+      "normal_balance": "credit",
+      "currency_code": "USD"
+    },
+    {
+      "code": "11.1.7",
+      "name": "World Vision Projects (USD)",
+      "parent_code": "11.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "revenue",
+      "normal_balance": "credit",
+      "currency_code": "USD"
+    },
+    {
+      "code": "11.2.1",
+      "name": "UNICEF Projects (AFN)",
+      "parent_code": "11.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "revenue",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "11.2.2",
+      "name": "UNFPA Projects (AFN)",
+      "parent_code": "11.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "revenue",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "11.2.3",
+      "name": "WHO Projects (AFN)",
+      "parent_code": "11.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "revenue",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "11.2.4",
+      "name": "UNDP/GF Projects (AFN)",
+      "parent_code": "11.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "revenue",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "11.2.5",
+      "name": "WFP Projects (AFN)",
+      "parent_code": "11.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "revenue",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "11.2.6",
+      "name": "OCHA Projects (AFN)",
+      "parent_code": "11.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "revenue",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "11.2.7",
+      "name": "World Vision Projects (AFN)",
+      "parent_code": "11.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "revenue",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "11.3.1",
+      "name": "In-Kind Revenue",
+      "parent_code": "11.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "revenue",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "11.4.1",
+      "name": "Exchange Rate Gain",
+      "parent_code": "11.4",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "revenue",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.1",
+      "name": "General Director",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.2",
+      "name": "Senior Advisor",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.3",
+      "name": "Health program Director",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.4",
+      "name": "Training Capacity Building Dir",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.5",
+      "name": "M&E Program Director",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.6",
+      "name": "Finance Director",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.7",
+      "name": "Operation Director",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.8",
+      "name": "Program Coordinator",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.9",
+      "name": "Training Coordinator",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.10",
+      "name": "Technical Manager",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.11",
+      "name": "CVs Program Manager",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.12",
+      "name": "CHNL Program Manager",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.13",
+      "name": "Monitoring Officer/Manager",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.14",
+      "name": "CBHC Officer/Manager",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.15",
+      "name": "Pharmacy Manager",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.16",
+      "name": "RH Manager",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.17",
+      "name": "Senior Finance Manager",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.18",
+      "name": "Finance Manager",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.19",
+      "name": "Logistic Manager",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.20",
+      "name": "Admin HR Manager",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.21",
+      "name": "Project Manager",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.22",
+      "name": "Deputy Technical Manager",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.23",
+      "name": "Senior M&E HMIS Manager",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.24",
+      "name": "Deputy Admin/Finance Manager",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.25",
+      "name": "Finance Controller",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.26",
+      "name": "Finance Monitor/Supervisor",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.27",
+      "name": "Provincial Monitors",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.28",
+      "name": "Finance Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.29",
+      "name": "Logistic Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.30",
+      "name": "Procurement Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.31",
+      "name": "Inventory/IT Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.32",
+      "name": "Liaison Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.33",
+      "name": "Admin Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.34",
+      "name": "HR Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.35",
+      "name": "Transport Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.36",
+      "name": "Human Resources Dev or Capacit",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.37",
+      "name": "RH Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.38",
+      "name": "HMIS Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.39",
+      "name": "Quality Assurance Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.40",
+      "name": "CDC/Hospital Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.41",
+      "name": "Capacity Dvlpmnt Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.42",
+      "name": "Nutrition Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.43",
+      "name": "CBHC Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.44",
+      "name": "EPI/Lab Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.45",
+      "name": "Pharmacy Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.46",
+      "name": "Mental Health/Disability Offic",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.47",
+      "name": "IMCI Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.48",
+      "name": "TB Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.49",
+      "name": "Project Supervisors",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.50",
+      "name": "Cluster Supervisor",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.51",
+      "name": "Construction Engineer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.52",
+      "name": "Bio Medical Engineer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.53",
+      "name": "Trainers",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.54",
+      "name": "Clinical Trainers",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.55",
+      "name": "Language and Computer Trainer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.56",
+      "name": "Accountant",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.57",
+      "name": "Cashier",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.58",
+      "name": "Finance Assistant",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.59",
+      "name": "RH Assistant",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.60",
+      "name": "Pharmacy Assistant",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.61",
+      "name": "EPI Assistant",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.62",
+      "name": "HMIS Assistant",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.63",
+      "name": "CBW Trainer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.64",
+      "name": "Logistic Assistant",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.65",
+      "name": "Procurement Assistant",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.66",
+      "name": "IT Assistant",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.67",
+      "name": "Inventory Assistant",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.68",
+      "name": "HR Assistant",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.69",
+      "name": "Admin Assistant",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.70",
+      "name": "Office Assistant",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.71",
+      "name": "Maintenance Assistant",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.72",
+      "name": "Store Keeper",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.73",
+      "name": "Receptionist",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.74",
+      "name": "Mechanic",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.75",
+      "name": "Guard",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.76",
+      "name": "Cleaner",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.77",
+      "name": "Cook",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.78",
+      "name": "Driver",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.79",
+      "name": "Laundry",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.80",
+      "name": "Baby Sitter",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.81",
+      "name": "Program Manager",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.82",
+      "name": "Hostel Principle",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.83",
+      "name": "Training supervisor",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.84",
+      "name": "Deputy Project Manager",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.85",
+      "name": "Health Educator",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.86",
+      "name": "Cluster Manager",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.87",
+      "name": "Admin/Logistic Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.88",
+      "name": "Admin/HR Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.89",
+      "name": "Admin/Logistic Assistant",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.90",
+      "name": "Admin/HR Assistant",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.91",
+      "name": "CSO Child survival Office",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.92",
+      "name": "Health Chief Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.93",
+      "name": "Operation Manager/Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.94",
+      "name": "Hospital Direct",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.95",
+      "name": "Medical Director",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.96",
+      "name": "Head Nurse",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.97",
+      "name": "Psychosocial Counsellor (M)",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.98",
+      "name": "Psychosocial Counsellor (F)",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.99",
+      "name": "Senior Cluster Manager",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.100",
+      "name": "EPI Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.101",
+      "name": "Technical Assistant",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.102",
+      "name": "Maintenance",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.103",
+      "name": "EPI Manager",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.104",
+      "name": "M&E Officer",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.105",
+      "name": "Head of Internal Audit",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.106",
+      "name": "EPHS Coordinator",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.1.107",
+      "name": "Operation Assistant",
+      "parent_code": "21.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.1",
+      "name": "Hospital Director",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.2",
+      "name": "Male Nurse",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.3",
+      "name": "Female Nurse",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.4",
+      "name": "Midwife",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.5",
+      "name": "MD general male",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.6",
+      "name": "MD general female",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.7",
+      "name": "Surgeon",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.8",
+      "name": "Anesthetist",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.9",
+      "name": "Pediatrician",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.10",
+      "name": "Dentist",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.11",
+      "name": "Pharmacist",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.12",
+      "name": "Salary",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.13",
+      "name": "Paramedics, Ancillary Services",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.14",
+      "name": "Laboratory tech",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.15",
+      "name": "Pharmacy Tech",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.16",
+      "name": "X-ray tech",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.17",
+      "name": "Dental tech",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.18",
+      "name": "Community health supervisor",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.19",
+      "name": "Community Mobilizer",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.20",
+      "name": "Health Service Providers",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.21",
+      "name": "Vaccinator",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.22",
+      "name": "Administrator",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.23",
+      "name": "Distributor",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.24",
+      "name": "Guard",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.25",
+      "name": "Cleaner",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.26",
+      "name": "Driver (ambulance, if not included elsewhere)",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.27",
+      "name": "Out reach for Vaccinator",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.28",
+      "name": "MD Assistant",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.29",
+      "name": "Internal Specialist",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.30",
+      "name": "Physiotherapist",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.31",
+      "name": "Cook",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.32",
+      "name": "Blood Bank Technician",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.33",
+      "name": "Nutritionist",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.34",
+      "name": "G.Practitioner",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.35",
+      "name": "Ward Nurse",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.36",
+      "name": "ER (Emergency Room) & OPD Nurse",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.37",
+      "name": "Obstetricians and Gynaecologist",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.38",
+      "name": "Radiologist (X-Ray)",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.39",
+      "name": "OT (Operating Theatre & Sterilization)",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.40",
+      "name": "Anaesthetics Nurse",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.41",
+      "name": "Technical Assistant",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.42",
+      "name": "Maintainance",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.43",
+      "name": "Focal Point",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.44",
+      "name": "Data Collection Officer",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.45",
+      "name": "Nutrition counsellor",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.46",
+      "name": "Psychosocial counsellor",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.47",
+      "name": "Peer-Worker",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.48",
+      "name": "Social Worker",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.49",
+      "name": "Outreach Coordinator",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.50",
+      "name": "Facility Coordinator",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.2.51",
+      "name": "CHS",
+      "parent_code": "21.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.1",
+      "name": "Hospital Director",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.2",
+      "name": "Male Nurse",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.3",
+      "name": "Female Nurse",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.4",
+      "name": "Midwife",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.5",
+      "name": "MD general male",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.6",
+      "name": "MD general female",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.7",
+      "name": "Surgeon",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.8",
+      "name": "Anesthetist",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.9",
+      "name": "Dentist",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.10",
+      "name": "Pharmacist",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.11",
+      "name": "Salary",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.12",
+      "name": "Paramedics, Ancillary Services",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.13",
+      "name": "Laboratory tech",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.14",
+      "name": "Pharmacy Tech",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.15",
+      "name": "X-ray tech",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.16",
+      "name": "Dental tech",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.17",
+      "name": "Community health supervisor",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.18",
+      "name": "Community Mobilizer",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.19",
+      "name": "Health Service Providers",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.20",
+      "name": "Vaccinator",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.21",
+      "name": "Administrator",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.22",
+      "name": "Distributor",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.23",
+      "name": "Guard",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.24",
+      "name": "Cleaner",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.25",
+      "name": "Driver (ambulance, if not included elsewhere)",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.26",
+      "name": "Out reach for Vaccinator",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.3.27",
+      "name": "Pediatrician",
+      "parent_code": "21.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.4.1",
+      "name": "Male Nurse",
+      "parent_code": "21.4",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.4.2",
+      "name": "Female Nurse",
+      "parent_code": "21.4",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.4.3",
+      "name": "Midwife",
+      "parent_code": "21.4",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.4.4",
+      "name": "Male MD",
+      "parent_code": "21.4",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.4.5",
+      "name": "Female MD",
+      "parent_code": "21.4",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.4.6",
+      "name": "Surgeon",
+      "parent_code": "21.4",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.4.7",
+      "name": "Anesthetist",
+      "parent_code": "21.4",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.4.8",
+      "name": "Pediatrician",
+      "parent_code": "21.4",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.4.9",
+      "name": "Guard",
+      "parent_code": "21.4",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.4.10",
+      "name": "Cleaner",
+      "parent_code": "21.4",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.4.11",
+      "name": "Driver",
+      "parent_code": "21.4",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.4.12",
+      "name": "Night Duty",
+      "parent_code": "21.4",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.5.1",
+      "name": "Trainees",
+      "parent_code": "21.5",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.5.2",
+      "name": "Wages of workers",
+      "parent_code": "21.5",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.5.3",
+      "name": "Perdiem for mobile immunization",
+      "parent_code": "21.5",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.5.4",
+      "name": "Supervisor perdiem",
+      "parent_code": "21.5",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.5.5",
+      "name": "Perdiem for outreach activity",
+      "parent_code": "21.5",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "21.6.1",
+      "name": "Staff Benefits",
+      "parent_code": "21.6",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.1.1",
+      "name": "International airfare",
+      "parent_code": "22.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.1.2",
+      "name": "Local Airfare",
+      "parent_code": "22.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.1.3",
+      "name": "Local travel",
+      "parent_code": "22.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.1.4",
+      "name": "Transportation medicine/supplies",
+      "parent_code": "22.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.1.5",
+      "name": "Rent of vehicles Head office",
+      "parent_code": "22.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.1.6",
+      "name": "Rent of vehicles Project office",
+      "parent_code": "22.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.1.7",
+      "name": "Ambulance Rent",
+      "parent_code": "22.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.1.8",
+      "name": "Taxi charges",
+      "parent_code": "22.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.2.1",
+      "name": "Staff per diem",
+      "parent_code": "22.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.2.2",
+      "name": "Accommodation",
+      "parent_code": "22.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.2.3",
+      "name": "Baseline assessment (Perdiem, accommodation)",
+      "parent_code": "22.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.2.4",
+      "name": "Non binding assessment",
+      "parent_code": "22.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.2.5",
+      "name": "Accreditation fee",
+      "parent_code": "22.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.2.6",
+      "name": "Trainers fee",
+      "parent_code": "22.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.3.1",
+      "name": "Telephone & top up cards",
+      "parent_code": "22.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.3.2",
+      "name": "Internet install & monthly fee",
+      "parent_code": "22.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.3.3",
+      "name": "Advertisement",
+      "parent_code": "22.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.4.1",
+      "name": "Building repair & Maintenance",
+      "parent_code": "22.4",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.4.2",
+      "name": "Vehicle repair & maint (includes)",
+      "parent_code": "22.4",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.4.3",
+      "name": "Equip repair & maint",
+      "parent_code": "22.4",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.4.4",
+      "name": "Ambulance repair & Maintenance",
+      "parent_code": "22.4",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.4.5",
+      "name": "Basic Renovation",
+      "parent_code": "22.4",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.4.6",
+      "name": "Medical Equipments Repair & Maintenance",
+      "parent_code": "22.4",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.4.7",
+      "name": "Non Medical Equip Repair & Maintenance",
+      "parent_code": "22.4",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.5.1",
+      "name": "Electricity, water, gas (cooking & Other)",
+      "parent_code": "22.5",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.5.2",
+      "name": "Gas for Vaccine refrigerator",
+      "parent_code": "22.5",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.5.3",
+      "name": "Fuel for Generator",
+      "parent_code": "22.5",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.5.4",
+      "name": "Fuel for Motorbike",
+      "parent_code": "22.5",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.5.5",
+      "name": "Ambulance Fuel",
+      "parent_code": "22.5",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.5.6",
+      "name": "Fuel for Heating",
+      "parent_code": "22.5",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.5.7",
+      "name": "Winterization wood",
+      "parent_code": "22.5",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.5.8",
+      "name": "Winterization Cool",
+      "parent_code": "22.5",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.5.9",
+      "name": "Fuel of EPI Vehicle",
+      "parent_code": "22.5",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.5.10",
+      "name": "Fuel of Office Vehicle",
+      "parent_code": "22.5",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.5.11",
+      "name": "Fuel for Lamp",
+      "parent_code": "22.5",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.5.12",
+      "name": "Winterization",
+      "parent_code": "22.5",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.5.13",
+      "name": "Gas for Sterilization",
+      "parent_code": "22.5",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.6.1",
+      "name": "Office & general supplies",
+      "parent_code": "22.6",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.6.2",
+      "name": "Office & Small Equipments",
+      "parent_code": "22.6",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.6.3",
+      "name": "Refreshment",
+      "parent_code": "22.6",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.6.4",
+      "name": "Cartridge for printer",
+      "parent_code": "22.6",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.6.5",
+      "name": "Printing - HMIS & MOPH forms",
+      "parent_code": "22.6",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.6.6",
+      "name": "Stationary",
+      "parent_code": "22.6",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.6.7",
+      "name": "Cleaning Materials",
+      "parent_code": "22.6",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.7.1",
+      "name": "Medicine Supplies",
+      "parent_code": "22.7",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.7.2",
+      "name": "Medical Supplies",
+      "parent_code": "22.7",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.7.3",
+      "name": "Others",
+      "parent_code": "22.7",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.7.4",
+      "name": "Baby kit",
+      "parent_code": "22.7",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.7.5",
+      "name": "Lab skill consumables",
+      "parent_code": "22.7",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.7.6",
+      "name": "Science lab supplies",
+      "parent_code": "22.7",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.7.7",
+      "name": "IEC Materials",
+      "parent_code": "22.7",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.7.8",
+      "name": "Hygiene Kit for trainees",
+      "parent_code": "22.7",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.7.9",
+      "name": "Consumable items for Clinical",
+      "parent_code": "22.7",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.8.1",
+      "name": "Office rent Head office",
+      "parent_code": "22.8",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.8.2",
+      "name": "Staff house rent Head office",
+      "parent_code": "22.8",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.8.3",
+      "name": "Office rent project office",
+      "parent_code": "22.8",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.8.4",
+      "name": "Staff house rent project office",
+      "parent_code": "22.8",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.8.5",
+      "name": "Stock rent",
+      "parent_code": "22.8",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.8.6",
+      "name": "HFs Rent",
+      "parent_code": "22.8",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.8.7",
+      "name": "Training Center",
+      "parent_code": "22.8",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.8.8",
+      "name": "Hostel",
+      "parent_code": "22.8",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.9.1",
+      "name": "Audit fee (pro rated for overall)",
+      "parent_code": "22.9",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.9.2",
+      "name": "Patient food (CHC/DH)",
+      "parent_code": "22.9",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.9.3",
+      "name": "Food for Students",
+      "parent_code": "22.9",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.9.4",
+      "name": "Staff uniforms",
+      "parent_code": "22.9",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.9.5",
+      "name": "Take over cost",
+      "parent_code": "22.9",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.9.6",
+      "name": "Publication",
+      "parent_code": "22.9",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.9.7",
+      "name": "Miscellaneous",
+      "parent_code": "22.9",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.9.8",
+      "name": "Emergency response",
+      "parent_code": "22.9",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.9.9",
+      "name": "Bank Charges",
+      "parent_code": "22.9",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.9.10",
+      "name": "Kitchen Utilities",
+      "parent_code": "22.9",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.9.11",
+      "name": "Rehabilitation of skill lab and",
+      "parent_code": "22.9",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.9.12",
+      "name": "Inauguration/Graduation Ceremony",
+      "parent_code": "22.9",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.9.13",
+      "name": "Diploma cost for graduates",
+      "parent_code": "22.9",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.9.14",
+      "name": "Visa Fee/Work permit",
+      "parent_code": "22.9",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.9.15",
+      "name": "On Call Visit",
+      "parent_code": "22.9",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.9.16",
+      "name": "Patient Cloths",
+      "parent_code": "22.9",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.9.17",
+      "name": "Gas for Kitchen",
+      "parent_code": "22.9",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "22.9.18",
+      "name": "Oxygen Gas",
+      "parent_code": "22.9",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.1",
+      "name": "Initial CHW Training",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.2",
+      "name": "Refresher CHW Training",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.3",
+      "name": "Per diems for CHW monthly meetings",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.4",
+      "name": "Outreach per diem for Vaccination",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.5",
+      "name": "RUD",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.6",
+      "name": "Lab",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.7",
+      "name": "Blood Transfusion",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.8",
+      "name": "IP",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.9",
+      "name": "EPI",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.10",
+      "name": "Nutrition",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.11",
+      "name": "Disability",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.12",
+      "name": "New Born Care",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.13",
+      "name": "IMNCI",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.14",
+      "name": "FP",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.15",
+      "name": "PPFP",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.16",
+      "name": "Basic EOC",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.17",
+      "name": "Mental health",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.18",
+      "name": "TB/Malaria",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.19",
+      "name": "HR Management",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.20",
+      "name": "HMIS",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.21",
+      "name": "BCC/IPCC",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.22",
+      "name": "PDQ",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.23",
+      "name": "ETS",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.24",
+      "name": "Gender AW",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.25",
+      "name": "Equip/Main",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.26",
+      "name": "Primary Eye Care",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.27",
+      "name": "Community Midwifery Education Program",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.28",
+      "name": "Community Nursing Program",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.29",
+      "name": "Performance Based Incentive",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.30",
+      "name": "Integrated Outreach services program",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.31",
+      "name": "Quarterly HFs coordination meeting",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.32",
+      "name": "Accreditation Workshop",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.33",
+      "name": "Emergency obstetric care basic",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.34",
+      "name": "Performance Effective Teaching",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.35",
+      "name": "Essential New Born Care Basic Training",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.36",
+      "name": "Supportive Supervision for Project",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.37",
+      "name": "ToT for CHNE master trainees",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.38",
+      "name": "Curriculum review workshop",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.39",
+      "name": "Capacity Building of Staff",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.40",
+      "name": "Rational use of drug Training",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.41",
+      "name": "Medical Ethic Training",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.42",
+      "name": "STI including HIV/AIDS training",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.43",
+      "name": "Trauma Management",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.44",
+      "name": "Nutrition SOP Initial, HFS Consultation",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.45",
+      "name": "Nutrition SOP Refresher, HFS Consultation",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.46",
+      "name": "Financial Management",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.47",
+      "name": "HQIP",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.48",
+      "name": "X-Ray, DH Male and Female MDs",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.49",
+      "name": "Refresher training of CHSs",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.50",
+      "name": "Initial training of CHSs",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.51",
+      "name": "Training FHAG Groups female CHWs",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.52",
+      "name": "Infection prevention TOT for management",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.53",
+      "name": "Refresher training for Midwives",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.54",
+      "name": "Stock management",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "23.1.55",
+      "name": "Drug supplies for Health Posts",
+      "parent_code": "23.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "24.1.1",
+      "name": "Anatomical Modules",
+      "parent_code": "24.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "24.1.2",
+      "name": "Nursing Skills Equipments",
+      "parent_code": "24.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "24.1.3",
+      "name": "Medical Equipments",
+      "parent_code": "24.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "24.2.1",
+      "name": "Office Equipments",
+      "parent_code": "24.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "24.2.2",
+      "name": "IT Equipments",
+      "parent_code": "24.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "24.2.3",
+      "name": "Furniture and Fixtures",
+      "parent_code": "24.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "24.2.4",
+      "name": "Machinery and Equipment",
+      "parent_code": "24.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "24.2.5",
+      "name": "Electronic Equipment",
+      "parent_code": "24.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "24.2.6",
+      "name": "Training Center Equipments",
+      "parent_code": "24.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "24.2.7",
+      "name": "Hospital Equipments",
+      "parent_code": "24.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "24.2.8",
+      "name": "Hostel Equipments",
+      "parent_code": "24.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "25.1.1",
+      "name": "Admin Cost (7%)",
+      "parent_code": "25.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "25.1.2",
+      "name": "Admin Cost (5%)",
+      "parent_code": "25.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "25.1.3",
+      "name": "Admin Cost (2%)",
+      "parent_code": "25.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "25.1.4",
+      "name": "Indirect/ Admin Expenditure",
+      "parent_code": "25.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "26.1.1",
+      "name": "Contingency Fund",
+      "parent_code": "26.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "27.1.1",
+      "name": "Wages/Salaries Tax (DAB)",
+      "parent_code": "27.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "27.1.2",
+      "name": "Contractor Tax (DAB)",
+      "parent_code": "27.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "27.1.3",
+      "name": "House Rent Tax (DAB)",
+      "parent_code": "27.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "28.1.1",
+      "name": "In-Kind Expenditure (AFN)",
+      "parent_code": "28.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "29.1.1",
+      "name": "Exchange Rate Losses",
+      "parent_code": "29.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "29.1.2",
+      "name": "Refunded to Donors",
+      "parent_code": "29.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "29.1.3",
+      "name": "Ineligiable Expenditure",
+      "parent_code": "29.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "31.1.1",
+      "name": "BPHS-Herat",
+      "parent_code": "31.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "31.1.2",
+      "name": "BPHS-Nuristan",
+      "parent_code": "31.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "31.1.3",
+      "name": "UNFPA",
+      "parent_code": "31.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "31.1.4",
+      "name": "World Vision - DAWAM",
+      "parent_code": "31.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "31.1.5",
+      "name": "OCHA-AHF-Herat",
+      "parent_code": "31.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "31.1.6",
+      "name": "TSFP-Kabul",
+      "parent_code": "31.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "31.1.7",
+      "name": "TSFP-Herat",
+      "parent_code": "31.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "31.1.8",
+      "name": "CBNI-Herat",
+      "parent_code": "31.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "32.1.1",
+      "name": "General Account 701 (USD)",
+      "parent_code": "32.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": "USD"
+    },
+    {
+      "code": "32.1.2",
+      "name": "OCHA Accounts (USD)",
+      "parent_code": "32.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": "USD"
+    },
+    {
+      "code": "32.2.1",
+      "name": "General Account (AFN)",
+      "parent_code": "32.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "32.2.2",
+      "name": "BPHS-Herat",
+      "parent_code": "32.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "32.2.3",
+      "name": "BPHS-Nuristan",
+      "parent_code": "32.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "32.2.4",
+      "name": "CBNI-Herat",
+      "parent_code": "32.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "32.3.1",
+      "name": "Ghazanfar Account (USD)",
+      "parent_code": "32.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": "USD"
+    },
+    {
+      "code": "33.1.1",
+      "name": "Tahdab Amanat MSP",
+      "parent_code": "33.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "34.1.1",
+      "name": "Employee Advances",
+      "parent_code": "34.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "34.1.2",
+      "name": "Travel Advances",
+      "parent_code": "34.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "34.1.3",
+      "name": "Supplier Advances",
+      "parent_code": "34.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "35.1.1",
+      "name": "Grants/Donor Receivables (USD)",
+      "parent_code": "35.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": "USD"
+    },
+    {
+      "code": "35.1.2",
+      "name": "Grants/Donor Receivables (AFN)",
+      "parent_code": "35.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "asset",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "41.1.1",
+      "name": "BPHS-Herat Project",
+      "parent_code": "41.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "liability",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "41.1.2",
+      "name": "BPHS-Nuristan Project",
+      "parent_code": "41.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "liability",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "41.1.3",
+      "name": "UNFPA Project",
+      "parent_code": "41.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "liability",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "41.1.4",
+      "name": "World Vision - DAWAM Project",
+      "parent_code": "41.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "liability",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "41.1.5",
+      "name": "OCHA-AHF-Herat Project",
+      "parent_code": "41.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "liability",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "41.1.6",
+      "name": "TSFP-Kabul Project",
+      "parent_code": "41.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "liability",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "41.1.7",
+      "name": "TSFP-Herat Project",
+      "parent_code": "41.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "liability",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "41.1.8",
+      "name": "CBNI-Herat Project",
+      "parent_code": "41.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "liability",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "42.1.1",
+      "name": "Admin of Projects",
+      "parent_code": "42.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "liability",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "43.1.1",
+      "name": "Wages/Salary Taxes",
+      "parent_code": "43.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "liability",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "43.2.1",
+      "name": "Contractor Taxes (7%)",
+      "parent_code": "43.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "liability",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "43.2.2",
+      "name": "Contractor Taxes (2%)",
+      "parent_code": "43.2",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "liability",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "43.3.1",
+      "name": "Rental House Taxes (10%)",
+      "parent_code": "43.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "liability",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "43.3.2",
+      "name": "Rental House Taxes (15%)",
+      "parent_code": "43.3",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "expense",
+      "normal_balance": "debit",
+      "currency_code": "AFN"
+    },
+    {
+      "code": "51.1.1",
+      "name": "Surplus/Deficit",
+      "parent_code": "51.1",
+      "level": 4,
+      "is_posting": true,
+      "account_type": "equity",
+      "normal_balance": "credit",
+      "currency_code": "AFN"
+    }
+  ]
+}

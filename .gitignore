@@ -1,0 +1,39 @@
+# Laravel / PHP
+/vendor/
+/node_modules/
+composer.phar
+/.fleet
+/.idea
+/.vscode
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+
+# Environment (never commit real .env)
+.env
+.env.backup
+.env.production
+.env.staging
+.env.test
+.env.*.local
+
+# Laravel
+/storage/*.key
+/storage/logs/*
+!/storage/logs/.gitignore
+/bootstrap/cache/*
+!/bootstrap/cache/.gitignore
+/public/storage
+/public/hot
+
+# Testing
+.coverage
+phpunit.xml
+.phpunit.result.cache
+
+# OS
+.DS_Store
+Thumbs.db
